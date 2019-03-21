@@ -1,0 +1,24 @@
+{
+  "name": "dialogflow",
+  "version": "1.0.0",
+  "description": "Converts dialogflow intents in to COGNIGY.AI internal ones.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node build/index",
+    "build": "tsc -p ."
+  },
+  "keywords": [
+    "Dialogflow",
+    "Intents"
+  ],
+  "author": "Cognigy GmbH",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/command-line-args": "^5.0.0",
+    "@types/node": "^11.11.4",
+    "typescript": "^3.3.4000"
+  },
+  "dependencies": {
+    "command-line-args": "^5.0.2"
+  }
+}
