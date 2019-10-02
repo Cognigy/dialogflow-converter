@@ -12,7 +12,7 @@
     "Intents"
   ],
   "author": "Cognigy GmbH",
-  "license": "MIT",
+  "license": "SEE LICENSE IN LICENSE",
   "devDependencies": {
     "@types/command-line-args": "^5.0.0",
     "@types/node": "^11.11.4",
